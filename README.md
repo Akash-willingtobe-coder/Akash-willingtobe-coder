@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-goswamiakash2030%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/akash-goswami/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/akash-goswami-35126b418-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
